@@ -107,7 +107,7 @@ module.exports = {
       }
     ]),
     new HtmlWebpackPlugin({
-      title: 'Pacman PWA',
+      title: 'Dinosol - Raptorman',
       inject: true,
       template: 'index.html'
     }),
